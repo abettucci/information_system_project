@@ -30,6 +30,8 @@ are in different departments, in the same way that two departments can exist
 different as long as they are in different provinces.
 
 System must be able to:
+- Manage the downloaded file dataset.
+- Make the corresponding validations to prevent the program from exiting abruptly.
 - The system must be able to manage different access points (access point, or, colloquially,
 WiFi antennas) distributed throughout the national territory. Access points must be added or
 removed from the system when they start or stop working in the real world.
